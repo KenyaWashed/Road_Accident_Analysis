@@ -7,7 +7,7 @@
 | HỌ TÊN                | MSSV      |
 |:------------------    |:--------: |
 | Nguyễn Tấn Hưng  | 22120125  |
-| Lê Quang Huy | 21120135  |
+| Lê Quang Huy | 22120135  |
 | Trần Duy Khang  | 22120153  |
 
 ## Chủ đề: Road Accident Analysis & Prediction Dataset
