@@ -37,7 +37,7 @@ Trang ghi lại chi tiết công việc: [Google sheet](https://docs.google.com/
 3. Frame the problems - Ask meaningful questions - Preprocessing - Analysis to answer the question     
     3.1. Question 1    
     3.2. Question 2    
-    3.3. Question 3
+    3.3. Question 3  
     3.4. Question 4       
 5. Reflection     
 6. References    
